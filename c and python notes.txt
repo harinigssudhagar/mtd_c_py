@@ -1,0 +1,16 @@
+MTD COMPETITIVE PROGRAMMING TRAINING
+
+DAY1 THURSDAY 06-03-2025
+
+STEPS TO CREATE GITHUB REPO
+1. open github ,rightmost beside + ,create new repository.
+
+KEYBOARD SHORTCUTS
+1. to select,shift + end
+
+#to make lowercases to uppercase, ctrl shift u and vive versa - ctrl u
+
+IMPORTANT GIT HUB
+#git status (to know the current status of our repo)
+#git clone https://github.com/neelmyna/vvce_mar25 (to download a repo)
+#git pull origin main (command to download the updated repo from the server to the local machine)(it should be done inside vvce_mar25)
