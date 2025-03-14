@@ -1,0 +1,6 @@
+vvce.capitalize is methods
+len(vvce) is function
+float is 8bytes
+input always takes as string 
+in python,there is no implicit type castinh
+A21
